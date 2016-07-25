@@ -10,7 +10,7 @@ Compilation
 * This happens in two stages:
 
  * A ``.pyx`` file is compiles by Cython to a ``.c`` file.
- * The ``.c`` file is compiled by a C comiler to a ``.so`` file (or a ``.pyd`` file on Windows)
+ * The ``.c`` file is compiled by a C compiler to a ``.so`` file (or a ``.pyd`` file on Windows)
 
 * The following sub-sections describe several ways to build your extension modules.
 
